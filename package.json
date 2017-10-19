@@ -1,6 +1,6 @@
 {
   "name": "sorting-suite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -15,5 +15,8 @@
   "devDependencies": {
     "chai": "^4.1.2",
     "mocha": "^4.0.1"
+  },
+  "dependencies": {
+    "@letakeane/basic-sorts": "git+https://github.com/letakeane/basic-sorts.git"
   }
 }
