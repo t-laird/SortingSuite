@@ -1,5 +1,5 @@
 {
-  "name": "Sorting Functions",
+  "name": "@t6r6l5/sortingsuite",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,8 +19,5 @@
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.8.0",
     "mocha": "^4.0.1"
-  },
-  "dependencies": {
-    "@letakeane/basic-sorts": "git+https://github.com/letakeane/basic-sorts.git"
   }
 }
