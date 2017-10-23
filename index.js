@@ -1,2 +1,11 @@
-var sortArray = [5, 0, 1, 3, 4, 2];
+let bubbleSort = require('./lib/bubbleSort');
+let insertionSort = require('./lib/insertionSort');
+let mergeSort = require('./lib/mergeSort');
+let quickSort = require('./lib/quickSort');
 
+module.exports = {
+  bubbleSort,
+  insertionSort,
+  mergeSort,
+  quickSort
+}
